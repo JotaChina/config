@@ -17,14 +17,14 @@
 ;==========================================================
 
 [colors]
-;background = ${xrdb:color0:#222}
-background = #222
-background-alt = #444
+;background = ${xrdb:color0:#B19CD9}
+background = #C8A2C8
+background-alt = #000000
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
-primary = #ffb52a
-secondary = #e60053
+primary = #000000
+secondary = #ffffff
 alert = #bd2c40
 
 [bar/example]
@@ -40,10 +40,10 @@ background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 3
-line-color = #f00
+line-color = #C8A2C8
 
 border-size = 4
-border-color = #00000000
+border-color = #C8A2C8
 
 padding-left = 0
 padding-right = 2
